@@ -1,2 +1,2 @@
 # yourusername.github.io
-Huhhhh
+my mini website 
